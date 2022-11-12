@@ -1,5 +1,5 @@
-#ifndef __CROOM_MANAGER_H
-#define	__CROOM_MANAGER_H
+#ifndef __CWORKER_THREAD_H
+#define	__CWORKER_THREAD_H
 
 #include <vector>
 #include <napi.h>
